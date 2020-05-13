@@ -1,0 +1,1 @@
+This is a spam email classifier built on the principle of Naive Baye's classification which analyses the text of the email and looks for the spam words in it and then it calculates the weightage of spam words and non spam words and decides the category of the email accordingly. This file is coded in python 3 and the dataset used for this project is inside the spam data folder
